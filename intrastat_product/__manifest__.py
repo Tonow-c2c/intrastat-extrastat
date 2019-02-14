@@ -12,6 +12,7 @@
     'summary': 'Base module for Intrastat Product',
     'author': 'Akretion, Noviat, Odoo Community Association (OCA)',
     'depends': [
+        'account',
         'intrastat_base',
         'product_harmonized_system',
         'sale_stock',
